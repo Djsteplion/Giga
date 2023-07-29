@@ -1,4 +1,4 @@
-@import url('C:/Users/User/Desktop/HTML Crashcourse/STEVO/GIGA PROJECT/css/satoshi.css');
+@import url('satoshi.css');
 
 
 *{
@@ -132,7 +132,7 @@
 }
 
 .hero2, .hero2-inner{
-    background-image: url("C:/Users/User/Desktop/HTML Crashcourse/STEVO/GIGA PROJECT/Images/Ellipse 103.png ");
+    background-image: url("Ellipse 103.png");
     background-size: contain;
     background-repeat: repeat;
     position: relative;
