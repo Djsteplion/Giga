@@ -59,7 +59,7 @@
     background-color: #DC7EE8;
     opacity: 0.9;
     z-index: 1;
-    padding-top: 30px;
+    padding-top: 60px;
     transition: 0.5s;
 }
 
@@ -67,7 +67,7 @@
     text-decoration: none;
     display:block;
     text-align: left;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     padding: 8px 8px 8px 32px;
     color: white;
