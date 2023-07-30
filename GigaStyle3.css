@@ -31,7 +31,7 @@
  .hero1-inner a{
   font-size: 12px;
   padding: 10px 20px!important;
-  margin-left: 12px;
+  margin-left: 15px;
 }
 
 .hero1-inner img{
@@ -39,12 +39,12 @@
 }
  
  .hero1-inner h1{
-     padding-left: 12px;
+     padding-left: 16px;
  }
  
  .hero1-inner p{
      font-size: 18px;
-     padding-left: 12px; 
+     padding-left: 16px; 
  }
 
 .hero-image img{
@@ -59,7 +59,7 @@
 /* Second Cointainer */
 
 .shopping-image{
-  padding-left:13px;
+  padding-left:15px;
   width: 100%;
 }
 
@@ -68,7 +68,7 @@
 }
 
 .shopping-text{
-  padding-left: 15px;
+  padding-left: 16px;
   margin-top: -35px;
   width: 100%;
 }
@@ -91,7 +91,7 @@
 
 .hotel-text-image{
   width: 100%;
-  padding-left: 13px;
+  padding-left: 15px;
 }
 
 .hotel-text-image img{
@@ -100,7 +100,7 @@
 
 .hotel-text{
   font-size: 25px;
-  padding-left: 15px;
+  padding-left: 16px;
 }
 
 .hotel-text p{
@@ -118,7 +118,7 @@
 
 .OrderRide-image{
   width: 100%;
-  padding-left:13px;
+  padding-left:16px;
 }
 
 .OrderRide-image img{
@@ -127,7 +127,7 @@
 
 .OrderRide-text{
   width: 100%;
-  padding-left: 15px;
+  padding-left: 16px;
 } 
 
 .OrderRide-text p{
@@ -163,7 +163,7 @@
 
 .ads, .ads-inner{
   width: 100%;
-  padding-left: 7.5px;
+  padding-left: 10px;
 }
 
 .ads-inner p{
@@ -181,7 +181,7 @@
 /* Sixth Container */
 
 .download-giga-app-design1, .download-giga-app-design1-inner{
-  padding-left: 7.5px;
+  padding-left: 16px;
   width: 100%;
 }
 
@@ -191,7 +191,7 @@
 
 .download-giga-app-design2-inner img{
   width: 80%;
-  padding-left: 20px;
+  padding-left: 23px;
 }
 
 /* Seventh Container */
